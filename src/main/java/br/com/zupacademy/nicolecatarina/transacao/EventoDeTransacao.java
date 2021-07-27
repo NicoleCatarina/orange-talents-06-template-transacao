@@ -1,5 +1,7 @@
 package br.com.zupacademy.nicolecatarina.transacao;
 
+import br.com.zupacademy.nicolecatarina.transacao.cartao.Cartao;
+
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
